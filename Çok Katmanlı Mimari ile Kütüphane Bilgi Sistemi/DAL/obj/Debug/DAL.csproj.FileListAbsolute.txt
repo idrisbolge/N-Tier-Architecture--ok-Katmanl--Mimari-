@@ -1,0 +1,6 @@
+F:\KutuphaneBilgiSistemi\DAL\bin\Debug\DAL.dll.config
+F:\KutuphaneBilgiSistemi\DAL\bin\Debug\DAL.dll
+F:\KutuphaneBilgiSistemi\DAL\bin\Debug\DAL.pdb
+F:\KutuphaneBilgiSistemi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\KutuphaneBilgiSistemi\DAL\obj\Debug\DAL.dll
+F:\KutuphaneBilgiSistemi\DAL\obj\Debug\DAL.pdb

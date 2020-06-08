@@ -1,0 +1,5 @@
+F:\KutuphaneBilgiSistemi\Entity\bin\Debug\Entity.dll
+F:\KutuphaneBilgiSistemi\Entity\bin\Debug\Entity.pdb
+F:\KutuphaneBilgiSistemi\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\KutuphaneBilgiSistemi\Entity\obj\Debug\Entity.dll
+F:\KutuphaneBilgiSistemi\Entity\obj\Debug\Entity.pdb

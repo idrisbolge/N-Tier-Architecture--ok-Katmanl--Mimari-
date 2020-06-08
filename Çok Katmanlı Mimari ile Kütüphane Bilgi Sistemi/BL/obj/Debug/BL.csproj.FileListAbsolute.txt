@@ -1,0 +1,9 @@
+F:\KutuphaneBilgiSistemi\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+F:\KutuphaneBilgiSistemi\BL\bin\Debug\BL.dll
+F:\KutuphaneBilgiSistemi\BL\bin\Debug\BL.pdb
+F:\KutuphaneBilgiSistemi\BL\bin\Debug\DAL.dll
+F:\KutuphaneBilgiSistemi\BL\bin\Debug\Entity.dll
+F:\KutuphaneBilgiSistemi\BL\bin\Debug\DAL.pdb
+F:\KutuphaneBilgiSistemi\BL\bin\Debug\Entity.pdb
+F:\KutuphaneBilgiSistemi\BL\obj\Debug\BL.dll
+F:\KutuphaneBilgiSistemi\BL\obj\Debug\BL.pdb
